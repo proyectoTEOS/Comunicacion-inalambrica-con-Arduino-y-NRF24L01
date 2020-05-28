@@ -37,8 +37,9 @@ Enlistaremos los materiales que se necesitan para realizar el proyecto, pero pue
 - 2 Protoboards
 
 ### Códigos
-Este proyecto requiere de 2 códigos, por ello es que necesitas 2 Arduinos. El dispositivo emisor será el esclavo y el dispositivo receptor será en maestro. 
-**[Maestro](https://github.com/proyectoTEOS/Comunicacion-inalambrica-con-Arduino-y-NRF24L01/blob/master/Sistema-de-seguridad-con-Arduino-Master/Comunicacion-inalambrica-con-Arduino-y-NRF24L01-Master.ino)** y **[Esclavo](https://github.com/proyectoTEOS/Comunicacion-inalambrica-con-Arduino-y-NRF24L01/blob/master/Sistema-de-seguridad-con-Arduino-Slave/Comunicacion-inalambrica-con-Arduino-y-NRF24L01-Slave.ino)**En los enlaces podrás obtener los códigos, están comentados de tal forma que puedas entender su estructura y función.
+Este proyecto requiere de 2 códigos, por ello es que necesitas 2 Arduinos. El dispositivo emisor será el **[esclavo](https://github.com/proyectoTEOS/Comunicacion-inalambrica-con-Arduino-y-NRF24L01/blob/master/Comunicacion-inalambrica-con-Arduino-y-NRF24L01-Slave/Comunicacion-inalambrica-con-Arduino-y-NRF24L01-Slave.ino)** (Arduino NANO) y el dispositivo receptor será en **[maestro](https://github.com/proyectoTEOS/Comunicacion-inalambrica-con-Arduino-y-NRF24L01/blob/master/Comunicacion-inalambrica-con-Arduino-y-NRF24L01-Master/Comunicacion-inalambrica-con-Arduino-y-NRF24L01-Master.ino)** (Arduino UNO). 
+
+En los enlaces anteriores podrás obtener los códigos, están comentados de tal forma que puedas entender su estructura y función.
 
 ### Diagrama
 Al igual que los códigos, necesitaras 2 diagramas. Toma en cuenta que el dispositivo con los sensores es el esclavo y el dispositivo con la 
