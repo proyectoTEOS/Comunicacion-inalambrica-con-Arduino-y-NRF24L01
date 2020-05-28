@@ -12,7 +12,7 @@ Este proyecto se basa en los sensores que hemos usado anteriormente, si no tiene
 ### Requisitos
 - Tener el IDE de [Arduino](https://www.arduino.cc/en/Main/Software) (o el de tu preferencia) con la versión más actual
 - Contar con las librerías [NRF24](https://github.com/PaulStoffregen/RadioHead), [DHT](https://github.com/adafruit/DHT-sensor-library),
-[LiquidCrystal_I2C]https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library y Wire (se incluye con el IDE).
+[LiquidCrystal_I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) y Wire (se incluye con el IDE).
 - Tener el material para hacer el proyecto (claro)
 
 ### Materiales
